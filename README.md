@@ -24,7 +24,7 @@ The project demonstrates fundamental front-end development skills, focusing on r
 ## Live Demo
 
 Experience the live landing page here:
-
+https://github.com/MulaNikhitha2004/Full-stack-webdevelopment-internship
 
 ## Installation and Setup (Local)
 
@@ -52,5 +52,5 @@ To run this project locally, follow these steps:
 
 If you have any questions or feedback, feel free to connect:
 
-GitHub: github.com/MulaNikhitha2004
+GitHub: https://github.com/MulaNikhitha2004
 LinkedIn : www.linkedin.com/in/mula-nikhitha-819557321
