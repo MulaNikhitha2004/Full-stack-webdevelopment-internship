@@ -24,9 +24,7 @@ The project demonstrates fundamental front-end development skills, focusing on r
 ## Live Demo
 
 Experience the live landing page here:
-[**[Your GitHub Pages Link Here]**](Your GitHub Pages Link Here)
 
-*(Replace `[Your GitHub Pages Link Here]` with the actual URL you get after enabling GitHub Pages for this repository.)*
 
 ## Installation and Setup (Local)
 
@@ -44,3 +42,15 @@ To run this project locally, follow these steps:
 3.  **Open `index.html`:** Simply open the `index.html` file in your preferred web browser.
 
 ## Project Structure
+├── index.html        (Main landing page HTML structure)
+├── style.css         (All CSS styling and responsive rules)
+└── images/           (Folder for all image assets)
+├── img1.webp     (Background image for the hero section)
+└── logo1.webp      (Website logo)
+
+## Contact
+
+If you have any questions or feedback, feel free to connect:
+
+GitHub: github.com/MulaNikhitha2004
+LinkedIn : www.linkedin.com/in/mula-nikhitha-819557321
